@@ -8,7 +8,7 @@ Matematika merupakan fondasi utama dari ilmu pengetahuan dan teknologi modern. D
 Matematika bukan hanya sekadar angka, melainkan bahasa universal yang digunakan untuk memahami, memodelkan, dan mengendalikan dunia di sekitar kita.
 
 ## Daftar File Implementasi Metode Numerik
-Berikut adalah daftar file berisi implementasi algoritma metode numerik yang terdapat pada direktori ini:
+Berikut adalah daftar file berisi implementasi rumus, metode dan algoritma matematika yang terdapat pada direktor ini:
 
 - `metode_Bisection.py`
 - `metode_Newton.py`
