@@ -1,5 +1,3 @@
-# Pengantar Metode Numerik
-
 ## Pentingnya Matematika
 Matematika merupakan fondasi utama dari ilmu pengetahuan dan teknologi modern. Dalam konteks ilmu komputer dan rekayasa perangkat lunak, matematika sangat penting karena:
 1. **Penyelesaian Masalah (Problem Solving)**: Matematika melatih cara berpikir logis, analitis, dan terstruktur yang sangat dibutuhkan dalam mengembangkan algoritma yang efisien.
