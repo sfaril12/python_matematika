@@ -18,3 +18,4 @@ Berikut adalah daftar file berisi implementasi rumus, metode dan algoritma matem
 - `metode_deret_tylor.py`
 - `metode_gauss.py`
 - `metode_gauss_jordan.py`
+- `range.py`
